@@ -1,0 +1,32 @@
+{
+  "name": "react-first-to-last",
+  "version": "1.0.0",
+  "description": "react from scrach",
+  "scripts": {
+    "start":"parcel index.html",
+    "build":"parcel build index.html", 
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anurajur/react-first-to-last.git"
+  },
+  "keywords": [],
+  "author": "anuradha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anurajur/react-first-to-last/issues"
+  },
+  "homepage": "https://github.com/anurajur/react-first-to-last#readme",
+  "devDependencies": {
+    "parcel": "^2.10.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]  
+}
